@@ -1,3 +1,2 @@
-# TourScape
-
-A tourism website built using MERN Stack.
+# travel-tourism
+Travel Tourism website in MERN Stack
